@@ -1,58 +1,85 @@
 # programmer-joke
 
 Q: What is a programmer’s favourite hangout place?
+
 A: Foo bar.
 
+
 Q: 0 is false and 1 is true, right?
+
 A: 1
 
+
 Q: Why do Java programmers have to wear glasses? 
+
 A: Because they don’t C# (see sharp).
 
+
 Programmer (noun)
+
 A person who fixed a problem that you don’t know you have, in a way you don’t understand.
 
 Algorithm (noun)
 A word used by programmer when they do not want to explain what they did.
 
+
 FORK YOU! (verb)
 A verb said by the developer to the repository
 
+
 “When I wrote this code, only God & I understood what I did.”
+
 “Now.. Only god knows.”
 
+
 Q: Can you please recommend book that made you cry?
+
 A: Data Structures and Algorithms in Java.
 
+
 “To replace programmers with Robots, clients will have to accurately describe what they want.”
+
 “We’re safe.”
+
 
 Do British web developers get annoyed every time they have to write “color” in their CSS?
 
+
 Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.
 
+
 HR: “Thi job opening that requires 8+ years of Swift experience.”
+
 Me: “Swift is a programming language that came out 3 years ago.”
 
+
 “What is the biggest lie you have heard from a programmer?”
+
 “It should work now.”
 
 Q: Why did the database administrator leave his wife?
+
 A: She had one-to-many relationships.
 
+
 Q: Why did the child component have such great self-esteem?
+
 A: Because its parent kept giving it props!
 
+
 Debugging: 
+
 Removing the needles from the haystack.
 
 A programmer goes to the shop to buy some milk. His wife calls and says "While you're out, get some eggs." 
 and he never returns …
 
 My wife said: "Honey, please go to the market and buy 1 bottle of milk. If they have eggs, bring 6.” 
+
 I came back with 6 bottles of milk.
 She said, "Why the hell did you buy 6 bottles of milk?" I said, 
 "Because they had eggs!!"
+
 
 A UDP packet walks into a bar. 
 A UDP packet walks into a bar. 
@@ -61,37 +88,55 @@ A UDP packet walks into a bar.
 A UDP packet walks into a bar. 
 The bartender says "hello."
 
+
 A TCP packet walks into a bar and says "I’d like a beer." The barman replies "You’d like a beer?" "Yes," replies the TCP packet, "I’d like a beer."
 
+
 A BitTorrent packet walks into a bar and asks for a beer. Everyone in the bar who already has a beer gives him a sip.
+
 
 I wrote this function. Its name is meMaybe()
 so that you can call meMaybe().
 
+
 Man: "Make me a sandwich"
+
 Woman: "No"
+
 Man: "sudo Make me a sandwich"
+
 Woman: "Okay"
+
 
 To understand what recursion is, you must first understand recursion.
 
+
 Q: Why do most programmers use dark mode?
+
 A: Because the light attracts too many bugs.
 
 Q: What did 0 say to 1?
+
 A: You're a bit too much.
+
 
 Q: Why did the functions stop calling each other?
 A: Because they had too many arguments.
 
+
 My programmer friend said I have a high IQ
+
 He said it's 404.
 
+
 I asked a programmer what his New Year's resolution will be.
+
 He answered:640 x 480.
+
 
 Whats at the end of every programmers suicide note?
 “Goodbye World”
+
 
 Programmer: "Honey, you're my number one..."
 Wife: "Oh, really!? Well who's your number zero, you cheating bastard!?"
