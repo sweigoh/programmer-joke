@@ -1,9 +1,9 @@
 # programmer-joke
-
+---
 Q: What is a programmer’s favourite hangout place?
 
 A: Foo bar.
-
+---
 
 Q: 0 is false and 1 is true, right?
 
