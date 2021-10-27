@@ -718,113 +718,210 @@ A: Because they couldn’t cd…
 ---
     
 Q: Why do Websockets make the best therapists?
+    
 A: They are always listening.
+    
+---
 
 Q: Why do Elm developers type so loudly?
+    
 A: Because it's a strongly typed language.
 
-Q: How do you know your baby is going to be a developer 
-when they grow up?
+---
+    
+Q: How do you know your baby is going to be a developer when they grow up?
+    
 A: Their first word is "Hello world!"
 
+---
+    
 Q: How do you make a 4D Printer?
+    
 A: Take a 3D printer and give it some time
 
+---
+    
 Q: What do hackers do on a boat?
+    
 A: Phishing.
 
+---
+    
 Teacher: "How would you describe your level of programming?"
+    
 Students: "Low"
+    
 Teacher: "Ok, fine, you can write programs in assembler then"
 
-My girlfriend told me I care more about my programming 
-job than about her.
+---
+    
+My girlfriend told me I care more about my programming job than about her.
+    
 I told her she is the #1 thing I care about.
 
+---
+    
 My code doesn’t work!
+    
 Let’s change nothing and run it again!
 
+---
+    
 Q: What do the new MacBook and a black hole have in common?
+    
 A: There's no Escape!
 
+---
+
 Q: How did the Coder CEO build his company headquarters? 
+    
 A: By calling the Constructor();
+    
+---
 
 Ask a programmer to review 10 lines of code, he’ll find 10 issues. 
+    
 Ask him to do 500 lines and he’ll say it looks good.
 
+---
+    
 Once I asked a recruiter “who’s Jason” when they were actually asking if I knew JSON.
-
+    
+---
+    
 Google Engineers right now!
+    
 Just google “how to fix servers” 
+    
 Oh wait-
 
+---
+    
 Q: What is Hardware? 
+    
 A: The part of the computer which you can kick.
 
+---
+    
 Q: What is the problem with git jokes?
+    
 A: Everyone has their own version!
 
+---
+    
 Married life of a developer
 #wife {
     right: 100%;
     margin: 0;
 }
+    
+---
 
 99 year old man dying: “Oh! God, Save Me!!”
+    
 God: Ok, JPG or JPEG?
 
+---
+    
 "Only my friends get to touch my private parts." -C++
 
+ ---
+    
 Q: Why do programmers have bad digestion?
+    
 A: They only have semi-colons
+   
+---
 
 Q: Why data scientists be charged with animal trafficking and animal abuse?
+    
 A: Because they import pandas and feed them to python.
 
+---
+    
 Q: What do programmers inherit?
+    
 A: Technical Debt
 
+---
+    
 I've been using VIM since about 5 years because I never find out how to quit.
+    
+---
 
 Q: All programming languages went to a party. Who paid the bill? 
+    
 A: Of course, PHP. PHP has many $.
 
+---
+    
 Are you a RESTful API? 
+    
 because you GET my attention, 
+    
 PUT some love, 
+    
 POST the cutest smile, and 
+    
 DELETE my bad day
 
+---
+    
 Q: How do you comfort a JavaScript bug?
+    
 A: You console it.
 
+---
+    
 layman: Hey! What's your address
+    
 developer: 173.168.15.10
+    
 layman: No man. Your local address
+    
 developer: 127.0.0.1
+    
 layman: I mean your physical address
+    
 developer: 29.01.38.62.31.58
 
+---
+    
 A: Anyone know any joke about sodium?? 
+    
 A: NA
 
+---
+    
 Q: Why does Python live on land?
+    
 A: Because it's above C-level
 
+---
+    
 Q: How are computers and air conditioners similar?
-A: They are both useless 
-when you open windows
+    
+A: They are both useless when you open windows
 
+---
+    
 Q: Have you heard of the band with 1023 megabytes?
+    
 A: No, they just haven't had a gig yet.
 
+---
+    
 Q: What screams "I'm insecure"?
+    
 A: Http
 
+---
+    
 Q: Which type of shooting always hurt the shooter?
+    
 A: Trouble-shooting!
 
+---
+    
 Q: Why did the react class component feel relieved?
 A: Because it was now off the hook.
-![image](https://user-images.githubusercontent.com/35705916/138978318-17babf6b-4bc1-46b3-805f-25ce0acf5c5a.png)
