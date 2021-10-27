@@ -924,4 +924,8 @@ A: Trouble-shooting!
 ---
     
 Q: Why did the react class component feel relieved?
+    
 A: Because it was now off the hook.
+
+---
+    
